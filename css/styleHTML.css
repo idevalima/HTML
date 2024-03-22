@@ -1,0 +1,10 @@
+/*Geral*/
+body {
+    font-family: sans-serif;
+    }
+    /*Estilo aplicado0 nos elementos pelo id=div-paragrafos*/
+#div-paragrafo {
+        color: aliceblue;
+        background-color: rgb(93,93,145);
+    }
+    /*Estilo aplicado nos elementos pela classe .longo*/
