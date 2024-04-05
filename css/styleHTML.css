@@ -3,8 +3,25 @@ body {
     font-family: sans-serif;
     }
     /*Estilo aplicado0 nos elementos pelo id=div-paragrafos*/
-#div-paragrafo {
+#div_paragrafo {
         color: aliceblue;
-        background-color: rgb(93,93,145);
+        background-color: rgb(93, 93, 145);
     }
     /*Estilo aplicado nos elementos pela classe .longo*/
+    .longo{
+        background-color: pink;
+    }
+    #p1{
+        color: brown;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    p{
+        font-family: 'Courier New', Courier, monospace;
+    }
+ul{
+    background-color: green;
+}
+ol{
+    color: red;
+}
